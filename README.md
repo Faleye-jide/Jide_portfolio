@@ -1,4 +1,4 @@
-# Jide_portfolio
+# Supervised Machine Learning
 Data Science portfolio
 
 
